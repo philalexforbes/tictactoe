@@ -1,1 +1,9 @@
 /** styles.css**/
+
+.rows{
+    border: black 1px solid;
+}
+
+.square{
+    border: black 1px solid;
+}
